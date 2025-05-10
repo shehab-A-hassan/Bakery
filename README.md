@@ -25,11 +25,9 @@
 ![Preview](https://raw.githubusercontent.com/shehab-A-hassan/Bakery/refs/heads/master/images/bakery3.jpg)
 
 ## 🔗 رابط المعاينة (Live Preview)
-[اضغط هنا لمعاينة المشروع](رابط_المشروع_هنا)
+[اضغط هنا لمعاينة المشروع](https://shehab-a-hassan.github.io/Bakery/)
 
-## 📁 طريقة التشغيل
-1. قم بتحميل الملفات أو استنساخ المستودع:
-   ```bash
-   git clone https://github.com/اسم-المستخدم/bakery-website.git
+
+
                
 
