@@ -23,6 +23,7 @@
 
 ## 📸 صورة من المشروع
 ![Preview](https://raw.githubusercontent.com/shehab-A-hassan/Bakery/refs/heads/master/images/bakery3.jpg)
+![Preview](https://raw.githubusercontent.com/shehab-A-hassan/Bakery/refs/heads/master/images/bakery3.jpg)
 
 ## 🔗 رابط المعاينة (Live Preview)
 [اضغط هنا لمعاينة المشروع](https://shehab-a-hassan.github.io/Bakery/)
