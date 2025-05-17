@@ -22,7 +22,7 @@
 - تنظيم العناصر وتنسيقها بدون استخدام أي مكتبات خارجية
 
 ## 📸 صورة من المشروع
-![Preview](https://raw.githubusercontent.com/shehab-A-hassan/Bakery/refs/heads/master/images/bakery3.jpg)
+![Preview](https://github.com/shehab-A-hassan/Bakery/blob/master/images/screenshot/Screenshot%202025-05-16%20160534.png)
 ![Preview](https://github.com/shehab-A-hassan/Bakery/blob/master/images/stas-ovsky.jpg)
 
 ## 🔗 رابط المعاينة (Live Preview)
